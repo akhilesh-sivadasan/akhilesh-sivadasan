@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Akhilesh 👋
 
-<!--
-**akhilesh-sivadasan/akhilesh-sivadasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 2.5 years of experience at Accenture. Recently completed Master's in Analytics from Northeastern University Toronto.
 
-Here are some ideas to get you started:
+## Skills
+Python | SQL | Tableau | Excel | Machine Learning fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+🔗 [Data Analyst Job Market Analysis](https://github.com/akhilesh-sivadasan/data-analyst-job-market) — Analyzed 1,689 job postings to identify in-demand skills and salary benchmarks.
+
+## Currently
+- Building portfolio projects
+- Open to Data Analyst opportunities in Canada
+
+📫 [LinkedIn](https://linkedin.com/in/akhileshsivadasan)
