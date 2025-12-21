@@ -8,7 +8,8 @@ Python | SQL | Tableau | Excel | Machine Learning fundamentals
 ## Featured Projects
 🔗 [Data Analyst Job Market Analysis](https://github.com/akhilesh-sivadasan/data-analyst-job-market) — Analyzed 1,689 job postings to identify in-demand skills and salary benchmarks.
 
-🔗 [Sales Analytics Pipeline](https://github.com/akhilesh-sivadasan/data-sales-pipeline) — Automated ETL pipeline processing 100K+ orders into reports and visualizations.
+🔗 [Sales Analytics Pipeline](https://github.com/akhilesh-sivadasan/data-sales-pipeline) — Automated ETL pipeline processing 100K+ orders with anomaly detection, flagging suspicious transactions using statistical methods.
+
 
 ## Currently
 - Building portfolio projects
