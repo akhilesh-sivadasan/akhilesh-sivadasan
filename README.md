@@ -10,6 +10,7 @@ Python | SQL | Tableau | Excel | Machine Learning fundamentals
 
 🔗 [Sales Analytics Pipeline](https://github.com/akhilesh-sivadasan/data-sales-pipeline) — Automated ETL pipeline processing 100K+ orders with anomaly detection, flagging suspicious transactions using statistical methods.
 
+🔗 [SQL Case Studies](https://github.com/akhilesh-sivadasan/sql-case-studies) — Business problems solved with SQL: revenue analysis, payment patterns, delivery performance, seller risk flagging.
 
 ## Currently
 - Building portfolio projects
