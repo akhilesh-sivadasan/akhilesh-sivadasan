@@ -12,8 +12,9 @@ Python | SQL | Tableau | Excel | Machine Learning fundamentals
 
 🔗 [SQL Case Studies](https://github.com/akhilesh-sivadasan/sql-case-studies) — Business problems solved with SQL: revenue analysis, payment patterns, delivery performance, seller risk flagging.
 
+🔗 [Customer Segmentation](https://github.com/akhilesh-sivadasan/customer-segmentation) — K-Means clustering on 96K customers identifying high-value segments for targeted marketing.
+
 ## Currently
-- Building portfolio projects
 - Open to Data Analyst opportunities in Canada
 
 📫 [LinkedIn](https://linkedin.com/in/akhileshsivadasan)
