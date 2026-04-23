@@ -6,6 +6,8 @@ Data Analyst with 2.5 years of experience at Accenture. Recently completed Maste
 Python | SQL | Tableau | Excel | Machine Learning fundamentals
 
 ## Featured Projects
+🔗 [IT Incident Analytics Pipeline](https://github.com/akhilesh-sivadasan/it-incident-analytics-pipeline) — Automated ETL pipeline & interactive Excel dashboard identifying IT support MTTR bottlenecks.
+
 🔗 [Tableau Dashboards](https://github.com/akhilesh-sivadasan/tableau-dashboards) — Interactive BI dashboards: market segmentation (252K records) and financial analysis.
 
 🔗 [Data Analyst Job Market Analysis](https://github.com/akhilesh-sivadasan/data-analyst-job-market) — Analyzed 1,689 job postings to identify in-demand skills and salary benchmarks.
