@@ -1,24 +1,27 @@
 # Hi, I'm Akhilesh 👋
 
-Data Analyst with 2.5 years of experience at Accenture. Recently completed Master's in Analytics from Northeastern University Toronto.
+Data Analyst with 2.5 years of experience at Accenture | Master's in Analytics (4.0 GPA), Northeastern University Toronto
 
-## Skills
-Python | SQL | Tableau | Excel | Machine Learning fundamentals
+**Python | SQL | Tableau | Power BI | Excel (Power Query) | R | Machine Learning**
 
 ## Featured Projects
-🔗 [IT Incident Analytics Pipeline](https://github.com/akhilesh-sivadasan/it-incident-analytics-pipeline) — Automated ETL pipeline & interactive Excel dashboard identifying IT support MTTR bottlenecks.
+
+🔗 [Blue Jays Offensive Analytics](https://github.com/akhilesh-sivadasan/bluejays-offensive-analytics) — Scraped 3,500+ MLB Statcast records via API, engineered conversion metrics, and built visualizations identifying high-value output zones and competitor vulnerabilities.
+
+🔗 [IT Incident Analytics Pipeline](https://github.com/akhilesh-sivadasan/it-incident-analytics-pipeline) — End-to-end Excel Power Query ETL pipeline with interactive dashboard. Key finding: 26% of database MTTR recoverable through routing fixes.
+
+🔗 [Sales Analytics Pipeline](https://github.com/akhilesh-sivadasan/data-sales-pipeline) — Automated ETL pipeline processing 100K+ orders with statistical anomaly detection flagging 0.22% of transactions.
+
+🔗 [Customer Segmentation](https://github.com/akhilesh-sivadasan/customer-segmentation) — K-Means clustering on 96K customers using RFM analysis. Four behavioral segments with targeted retention strategies.
+
+🔗 [Data Analyst Job Market Analysis](https://github.com/akhilesh-sivadasan/data-analyst-job-market) — Analyzed 1,689 job postings with interactive Tableau dashboards tracking skills demand and salary benchmarks.
+
+🔗 [SQL Case Studies](https://github.com/akhilesh-sivadasan/sql-case-studies) — Revenue trends, payment patterns, delivery performance, and seller risk analysis across 100K+ records.
 
 🔗 [Tableau Dashboards](https://github.com/akhilesh-sivadasan/tableau-dashboards) — Interactive BI dashboards: market segmentation (252K records) and financial analysis.
 
-🔗 [Data Analyst Job Market Analysis](https://github.com/akhilesh-sivadasan/data-analyst-job-market) — Analyzed 1,689 job postings to identify in-demand skills and salary benchmarks.
-
-🔗 [Sales Analytics Pipeline](https://github.com/akhilesh-sivadasan/data-sales-pipeline) — Automated ETL pipeline processing 100K+ orders with anomaly detection.
-
-🔗 [SQL Case Studies](https://github.com/akhilesh-sivadasan/sql-case-studies) — Business problems solved with SQL: revenue analysis, payment patterns, seller risk.
-
-🔗 [Customer Segmentation](https://github.com/akhilesh-sivadasan/customer-segmentation) — K-Means clustering on 96K customers for targeted marketing.
-
 ## Currently
-- Open to Data Analyst opportunities in Canada
+- Open to Data Analyst, BI Analyst, and Analytics Engineer opportunities in Canada
+- Building a DBT data warehouse project (coming soon)
 
-📫 [LinkedIn](https://linkedin.com/in/akhileshsivadasan)
+📫 [LinkedIn](https://linkedin.com/in/akhileshsivadasan) | 📧 akhileshsivadasan83@gmail.com
