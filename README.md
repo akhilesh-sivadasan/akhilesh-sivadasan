@@ -1,10 +1,11 @@
 # Hi, I'm Akhilesh 👋
-
 Data Analyst with 2.5 years of experience at Accenture | Master's in Analytics (4.0 GPA), Northeastern University Toronto
 
-**Python | SQL | Tableau | Power BI | Excel (Power Query) | R | Machine Learning**
+**Python | SQL | Snowflake | DBT | Airflow | Tableau | Power BI | Excel (Power Query) | R**
 
 ## Featured Projects
+
+🔗 [DBT + Snowflake + Airflow Pipeline](https://github.com/akhilesh-sivadasan/dbt-snowflake-airflow-pipeline) — End-to-end analytics engineering pipeline: star schema data warehouse in Snowflake, DBT transformations with 24 automated tests, orchestrated by Airflow.
 
 🔗 [Blue Jays Offensive Analytics](https://github.com/akhilesh-sivadasan/bluejays-offensive-analytics) — Scraped 3,500+ MLB Statcast records via API, engineered conversion metrics, and built visualizations identifying high-value output zones and competitor vulnerabilities.
 
@@ -22,6 +23,5 @@ Data Analyst with 2.5 years of experience at Accenture | Master's in Analytics (
 
 ## Currently
 - Open to Data Analyst, BI Analyst, and Analytics Engineer opportunities in Canada
-- Building a DBT data warehouse project (coming soon)
 
 📫 [LinkedIn](https://linkedin.com/in/akhileshsivadasan) | 📧 akhileshsivadasan83@gmail.com
